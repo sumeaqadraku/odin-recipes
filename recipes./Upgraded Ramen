@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Odin Recipes</title>
+</head>
+<body>
+<img src="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/birriaramen2-1664194907.jpg" alt="Upgraded Ramen">
+<h1>Upgraded Ramen Recipe Ingredients : </h1>
+<ul>
+<li>Miso Paste</li>
+<li>Vegetables</li>
+<li>Soft Boiled Egg</li>
+<li>Sesame Seeds</li>
+</ul>
+
+<h1>Upgraded Ramen Step by Step:</h1>
+<ol>
+<li>Cook your instant ramen. </li>
+<li>Make the sauce</li>
+<li>Toss. Add the drained noodles to the pan, turn up the heat, and toss to coat.</li>
+<li>Cook the egg.</li>
+<li>Serve. Place the noodles in a bowl and finish with sliced scallions and everything bagel spice. Enjoy hot!</li>
+</ol>
