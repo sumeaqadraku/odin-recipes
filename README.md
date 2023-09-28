@@ -1,2 +1,2 @@
 # odin-recipes
-HTML skills demonstration
+Markup Skills
